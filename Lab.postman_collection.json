@@ -19,7 +19,7 @@
 						{
 							"key": "file",
 							"type": "file",
-							"src": "/Users/admin/Documents/HMCTS/lab/excelupload/wacky.xlsx"
+							"src": "wacky.xlsx"
 						}
 					]
 				},
